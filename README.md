@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### I'm Bala
 
-🌱 I’m a tech Enthusiast
+🌱 I’m a tech Enthusiast.
+🔭 Interested in iOS App development.
 <!--
 **bmwolveriney/bmwolveriney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
